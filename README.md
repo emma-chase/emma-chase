@@ -1,5 +1,5 @@
 ## Hi there, I'm Emma 👋
-I am a recent graduate of the University of Iowa where I studied Business Analytics and Psychology. I currently work in an analytics role for Innovative Captive Strategies. 
+I am a recent graduate of the University of Iowa where I studied Business Analytics and Psychology. I am beginning an analytics role with Innovative Captive Strategies in June 2025.
 
 💬 I am always open to connect and work on projects!
 
