@@ -1,6 +1,6 @@
-## Hi there 👋
-
-<!--I am a recent graduate of the University of Iowa where I studied Business Analytics and Psychology. I currently work in an analytics role for Innovative Captive Strategies. 
+## Hi there, I'm Emma 👋
+I am a recent graduate of the University of Iowa where I studied Business Analytics and Psychology. I currently work in an analytics role for Innovative Captive Strategies. 
+<!--
 
 **emma-chase/emma-chase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
